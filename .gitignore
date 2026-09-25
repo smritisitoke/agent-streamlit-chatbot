@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+.venv-2/
+.venv-3/
+.venv-4/
+.venv-5/
+venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Other
+*.log
